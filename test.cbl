@@ -1,2 +1,2 @@
-display hello
 display hai
+display hello
